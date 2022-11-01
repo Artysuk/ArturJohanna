@@ -1,3 +1,7 @@
 paar
 rida
+<<<<<<< HEAD
 teksti tekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstitekstiteksti
+=======
+teksti kmcdknfkdnfejklw
+>>>>>>> ca4db7e0e3c17f655ccf923971a6e829261d665a
